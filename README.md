@@ -1,1 +1,1 @@
-# ni-quran-bot
+# Bot Quran Edited By Allwai .
