@@ -112,7 +112,7 @@ client.on("message", message => {
   }
 
 if(message.content === "$help") {
-message.author.sendMessage(`- :hearts: **| __Nile Network__ QuranBot - (Help Menu)**
+message.author.sendMessage(`- :hearts: **| __Wind Server__ QuranBot - (Help Menu)**
 
 - **:mosque: | $quran 1 : القران الكريم كامل بصوت الشيخ عبدالباسط عبدالصمد**
 
