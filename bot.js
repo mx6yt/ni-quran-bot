@@ -60,7 +60,7 @@ client.on("message", message => {
     }
     voiceChannel.join()
       .then(connnection => {
-        let stream = yt('https://www.youtube.com/watch?v=HfyJ1ibiaew', {audioonly: true});
+        let stream = yt('youtube.com/watch?v=HfyJ1ibiaew', {audioonly: true});
         const dispatcher = connnection.playStream(stream);
       });
   }
